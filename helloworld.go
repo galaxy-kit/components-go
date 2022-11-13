@@ -1,6 +1,6 @@
 package components
 
-import "github.com/galaxy-kit/galaxy/define"
+import "github.com/galaxy-kit/galaxy-go/define"
 
 // HelloWorld HelloWorld组件接口
 type HelloWorld interface {

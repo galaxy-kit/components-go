@@ -3,7 +3,7 @@ package helloworld
 
 import (
 	"fmt"
-	"github.com/galaxy-kit/galaxy/ec"
+	"github.com/galaxy-kit/galaxy-go/ec"
 )
 
 // HelloWorld HelloWorld组件，组件Start时，在控制台打印`Hello World`。
