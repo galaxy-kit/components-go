@@ -1,4 +1,4 @@
-// Package helloworld 提供HelloWorld组件。
+// Package helloworld 提供HelloWorld示例组件。
 package helloworld
 
 import (
@@ -6,7 +6,7 @@ import (
 	"github.com/galaxy-kit/galaxy-go/ec"
 )
 
-// HelloWorld HelloWorld组件，组件Start时，在控制台打印`Hello World`。
+// HelloWorld HelloWorld示例组件，组件Start时，在控制台打印`Hello World`。
 type HelloWorld struct {
 	ec.ComponentBehavior
 }
